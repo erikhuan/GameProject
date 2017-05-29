@@ -1,18 +1,18 @@
-Story
+# Is it Lonely at the Top of the World?
 
-Title Screen: New Game, Continue, Options
+## Title Screen: New Game, Continue, Options
 
 Intro - The sky is dark with a heavy overcast. A crimson glow fills a village as houses are ablaze. The smell of burning wood and screams waft through the air. People are in a panic running past You as they are being chased by monsters. You fight your way through.
 
--Tutorial stage-
+## -Tutorial stage-
 
 You walk/run past the crowd and approach  a monster. An armored knight with sword in hand. Attack. Following there is a blockade. A weak point at the top can be hit with an arrow. You must jump up platforms to reach it. After clearing the way you face a spear knight with shield. Roll to get past his defense and beat him. After there is an underpass you can get past by rolling. You reach an open area.
 
--Tutorial Boss-
+## -Tutorial Boss-
 
 A very large knight with a sword and shield. The knight will try to actively block attacks with his shield. The player must take advantage of rolling to defeat the boss. Afterwards You walk ahead to find a Girl in white. She sees you and immediately runs off. As you chase after her, Fade to black...
 
--Patrol-
+## -Patrol-
 
 Felix: . .ake u...
 You: . . .
@@ -37,7 +37,7 @@ Captain: Ah, You. I've got a simple assignment for you two today. Go patrol the 
 
 From this point, You are free to wander around this portion of Town and into the Forest.
 
--Knight Encounter-
+## -Knight Encounter-
 
 After exploring the Forest you come across a rope bridge. As the player walks onto the rope bridge a knight in black armor approaches. And a boss battle starts.
 
@@ -53,8 +53,8 @@ Black Knight: You fight well for a young one. However I'm afraid I must end this
 
 He proceeds to knocks you out. Fade to black.
 
-(2nd play through) not sure if I'm gonna implement this
--The Girl- temp
+## (2nd play through) not sure if I'm gonna implement this
+## -The Girl- temp
 
 You wake up in a regal bedroom as your maids are helping you get ready.
 
@@ -94,7 +94,7 @@ If the Black Knight is killed,
 
 Knight: Princess... I'm sorry you have to see me like this...
 
--After the Fight-
+## -After the Fight-
 
 Regardless on how the fight went you return to town to rest up for the day and report to the Captain in the morning.
 
@@ -102,13 +102,13 @@ Captain: A Knight in Black armor you say? Strange. It is unlikely that any neigh
 
 You may now free roam again. As you make your way back to where you fought the knight you either cross the bridge or find that a path has opened at the bottom to the other side. In this section of the forest you start to see small hive structures amongst/in the trees and underground/everywhere. They will spawn Giant Wasps until the Hive is destroyed. You eventually make it to a cavern where a Giant Queen Wasp awaits you.
 
--Giant Queen Wasp Fight-
+## -Giant Queen Wasp Fight-
 
 You must first destroy the nest surrounding her abdomen before being able to do any real damage. The Queen will fly around as Giant Wasps spawn to attack you.
 
 After you defeat her a chest drops. Opening it increases your health bar.
 
--After Queen Wasp-
+## -After Queen Wasp-
 
 You head back to town automatically after finishing your task.
 
@@ -116,13 +116,13 @@ Captain: What? A Queen was there? And you defeated it? That was quite reckless o
 
 As the Captain stated you can take your time before heading back into the forest. When you make it back to the area you fought the Queen Wasp you see a Girl in white like the one from your dream. Before you can speak with her she runs deeper into the forest. Eventually you enter a clearing.
 
--Panther Fight-
+## -Panther Fight-
 
 As you walk into the clearing you see the Girl tending to a wounded deer. She heals it with magic before a Flying Panther shows up. The deer carries the Girl off and you are left to fend off the Panther. When the Panther's health drops to half a second one appears.
 
 When you deplete both their health bars they flee leaving a chest behind. In it you get a pair of Air Walks allowing you to double jump.
 
--After Panther-
+## -After Panther-
 
 With the Girl long gone by now you head back to town to give your report about the pair of Flying Panthers.
 
@@ -130,7 +130,7 @@ Captain: So that's whats been causing all the commotion huh? And you managed to 
 
 You are free to do whatever you want until you head back to your bed to the barracks.
 
--Town West Gate-
+## -Town West Gate-
 
 A few days pass and you get new orders.
 

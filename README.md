@@ -160,7 +160,7 @@ Yuuma
 - Horned
 - Both
 
-NPCs
+## NPCs
 
 HUMAN
 Felix Green (Close Friend) Sword&Shield
@@ -221,9 +221,12 @@ Outposts in the Human Realm where the towns are in the Monster Realm
 
 Ancient Relics are save points. In part 2, you can teleport between them for fast travel either by Yuuma magic or human technology.
 
-MONSTER ROUTE
-Knock out your friends instead of killing them to unlock the true ending. Need a certain item to knock out. They Must be low health.(True Ending)
+## MONSTER ROUTE
 
 Do not kill Informants
+
+Need more decison making to make this route impactful...
+
+Knock out your friends instead of killing them to unlock the true ending. Need a certain item to knock out. They Must be low health.(True Ending)
 
 Sneak into the castle several times and eavesdrop for dialogue(True Ending)

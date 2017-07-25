@@ -25,7 +25,7 @@ You wake up in bed in the barracks to see your ally waking you up.
 
 Felix: Get up, it's morning! Get ready for morning instruction.
 
-You get out of bed. There is a chest in the room. It contains your sword and bow. Unless you retrieve them you can't leave the room. Attempting to do so starts a prompt that suggests you grab your equipment. After you grab your things you head out of the room outside for briefing.
+You get out of bed. There is a chest in the room. It contains your Sword and Bow. Unless you retrieve them you can't leave the room. Attempting to do so starts a prompt that suggests you grab your equipment. After you grab your things you head out of the room outside for briefing.
 
 Captain: ... And that's all for today.
 
@@ -106,7 +106,7 @@ You may now free roam again. As you make your way back to where you fought the k
 
 You must first destroy the nest surrounding her abdomen before being able to do any real damage. The Queen will fly around as Giant Wasps spawn to attack you.
 
-After you defeat her a chest drops. Opening it increases your health bar.
+After you defeat her your health increases and a chest drops. You obtain Shield from the chest.
 
 ## -After Queen Wasp-
 
@@ -146,6 +146,10 @@ Head to the West Barracks.
 
 Captain: Are you the extra help we requested? (Yes/No)
 
-No? Then why are you talking to me.
+(No)No? Then why are you talking to me.
 
-It wouldn't kill them to send more soldiers to help would it? Well let me brief you on the situation. We are planning to expand our settlement into the Desert. The plans have been in the works for a while, but as our team was ready to head out a Giant Sand Worm was spotted out in the distance. We aren't sure where it came from, but just to be safe we requested for extra security to guard the workers while they build the outpost. Once that's completed most monsters should be deterred from the nearby area. The problem is we don't know if that Worm will approach us while construction is in progress. So we need people like you to fend off any attacks if needed. We've formed pairs for easier mobility in the desert environment. Since you're the last person you'll be grouping up with another recruit of ours. Good luck, he's a tough guy to work with.
+(Yes)It wouldn't kill them to send more soldiers to help would it? Well let me brief you on the situation. We are planning to expand our settlement into the Desert. The plans have been in the works for a while, but as our team was ready to head out a Giant Sand Worm was spotted out in the distance. We aren't sure where it came from, but just to be safe we requested for extra security to guard the workers while they build the outpost. Once that's completed most monsters should be deterred from the nearby area. The problem is we don't know if that Worm will approach us while construction is in progress. So we need people like you to fend off any attacks if needed. We've formed pairs for easier mobility in the desert environment. Since you're the last person you'll be grouping up with another recruit of ours. Good luck, he's a tough guy to work with.
+
+You may prepare before heading to the West Gate where you meet Cleave Burner.
+
+Cleave: Oi! You the recruit they sent from the East Gate? You don't look like you got a lot of fight in ya. Listen I'm only gonna say this once. If you slow me down I'm leavin' ya behind. Got it?! Let's go.

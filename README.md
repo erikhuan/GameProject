@@ -43,9 +43,9 @@ Sky Cloak - Air Dash
 
 #### Rotating Equips
 
-Dagger - Lets you Roll, Short Range, Fast
-Dagger+ Backstabbing Enemies deal extra damage
-Dagger++ May inflict Bleed
+Dagger - Lets you Roll, Short Range, Fast  
+Dagger+ Backstabbing Enemies deal extra damage  
+Dagger++ May inflict Bleed  
 
 Sword & Shield - Block any attack, Mid Range
 Shield+ Consumes less stamina

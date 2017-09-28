@@ -68,7 +68,7 @@ Coin Charm - Enemies drop extra coins
 Secret Charm - Detect Secrets/Hidden Items
 Boomerang - Damage enemies, Grab items, Activate Switches
 Breeze Leaf - Blow a gust of wind
-
+-Insert Healing Item- Has X amount of uses that refill at a save point(Goddess Fountains), Can get/find more as you progress.
 
 ## Map Zones
 

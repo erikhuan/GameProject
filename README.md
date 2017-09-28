@@ -36,10 +36,10 @@ Sword skills(?)
 
 #### Passive/Always on
 
-Bow - You shoot with it.
-Claw Gauntlets - Allows climbing
-Air Walks - Double Jump
-Sky Cloak - Air Dash
+Bow - You shoot with it  
+Claw Gauntlets - Allows climbing  
+Air Walks - Double Jump  
+Sky Cloak - Air Dash  
 
 #### Rotating Equips
 
@@ -47,110 +47,110 @@ Dagger - Lets you Roll, Short Range, Fast
 Dagger+ Backstabbing Enemies deal extra damage  
 Dagger++ May inflict Bleed  
 
-Sword & Shield - Block any attack, Mid Range
-Shield+ Consumes less stamina
-Shield++ Reflect Beam Attacks
+Sword & Shield - Block any attack, Mid Range  
+Shield+ Consumes less stamina  
+Shield++ Reflect Beam Attacks  
 
-Spear - Sidestep, Dash, Low Damage, Fast, Long Range
-Spear+ Dashing through enemies damages them
-Spear++ Air Dash, stacks with Sky Cloak for 2 dashes
+Spear - Sidestep, Dash, Low Damage, Fast, Long Range  
+Spear+ Dashing through enemies damages them  
+Spear++ Air Dash, stacks with Sky Cloak for 2 dashes  
 
-Great Axe - Crush rocks, High Damage, Slow, Long Range
-Great Axe+ Nullify projectiles
-Great Axe++ Reflect projectiles
+Great Axe - Crush rocks, High Damage, Slow, Long Range  
+Great Axe+ Nullify projectiles  
+Great Axe++ Reflect projectiles  
 
-Ice Ofuda - Shoot Ice Arrows
-Dragon Ash - Shoot Fire Arrows
-Crystal Arrows - Shoot Piercing Arrows
+Ice Ofuda - Shoot Ice Arrows  
+Ignition Powder/Dragon Ash - Shoot Fire Arrows  
+Crystal Arrows - Shoot Piercing Arrows  
 
-Coin Magnet - Nearby coins come to you
-Coin Charm - Enemies drop extra coins
-Secret Charm - Detect Secrets/Hidden Items
-Boomerang - Damage enemies, Grab items, Activate Switches
-Breeze Leaf - Blow a gust of wind
+Coin Magnet - Nearby coins come to you  
+Coin Charm - Enemies drop extra coins  
+Secret Charm - Detect Secrets/Hidden Items  
+Boomerang - Damage enemies, Grab items, Activate Switches  
+Breeze Leaf - Blow a gust of wind  
 -Insert Healing Item- Has X amount of uses that refill at a save point(Goddess Fountains), Can get/find more as you progress.
 
 ## Map Zones
 
 ### FOREST
-Imp
-Snurt 
-Giant Wasp
-The Hive BOSS drops Shield
-Hat Sprite
-Fairy
+Imp  
+Snurt  
+Giant Wasp  
+The Hive BOSS drops Shield  
+Hat Sprite  
+Fairy  
 Twin Flying Squirrel Panthers BOSS drops Air Walks, double jump
-2nd comes in after the first takes enough damage and flinches
+2nd comes in after the first takes enough damage and flinches  
 
 ### RUINS
-Sentry turret shoots lasers
-Sentinels/Golems
-Imp
-Ancient Golem MINI BOSS gets reactivated by either humans or monsters
+Sentry turret shoots lasers  
+Sentinels/Golems  
+Imp  
+Ancient Golem MINI BOSS gets reactivated by either humans or monsters  
 
 ### LAKE
-Sentinels/Golems
-Mechanical Spiders
-Knight
-Paladin BOSS(H)
-Frog(?) Knight BOSS(M) salamander? Marine iguana? Poison
-Leviathan BOSS optional
+Sentinels/Golems  
+Mechanical Spiders  
+Knight  
+Paladin BOSS(H)  
+Frog(?) Knight BOSS(M) salamander? Marine iguana? Poison  
+Leviathan BOSS optional  
 
 ### SNOW - get Spear
-Snurt
-Hat Sprite
-Snow Imp
-Snow Fairy
-Spirits
-Zombies(temp)
-Lich BOSS summons zombies etc, actual body is weak, protected by ice, drops Ice Talisman for bow for Ice Arrows
+Snurt  
+Hat Sprite  
+Snow Imp  
+Snow Fairy  
+Spirits  
+Zombies(temp)  
+Lich BOSS summons zombies etc, actual body is weak, protected by ice, drops Ice Talisman for bow for Ice Arrows  
 
 ### ICE LAB
-Knight
-Sentinels/Golems
-Ice Knight BOSS(H) stage 2 ice armor
-Frost Wolf Knight BOSS(M)
+Knight  
+Sentinels/Golems  
+Ice Knight BOSS(H) stage 2 ice armor  
+Frost Wolf Knight BOSS(M)  
 
 ### DESERT
-(Has a Lost Woods feel to it, Oasis at the center of a circling map)
-Snurt
-Cacti
-Imp
-Sand worm
-Giant Sand Worm BOSS Find Great Axe, Fight on the sand worm, killing it leaves it's carcass. New area
+(Has a Lost Woods feel to it, Oasis at the center of a circling map)  
+Snurt  
+Cacti  
+Imp  
+Sand worm  
+Giant Sand Worm BOSS Find Great Axe, Fight on the sand worm, killing it leaves it's carcass. New area  
 
 ### MINES
-Snurt
-Spider
-Bat
-Crystal Golem BOSS optional, Crystal Arrow upgrade
+Snurt  
+Spider  
+Bat  
+Crystal Golem BOSS optional, Crystal Arrow upgrade  
 
 ### VOLCANO
-Snurt
-Golem
-Fire crabs
-Fire lizard
-Imp
-Bats
-Jet dragon BOSS has 2 openings like exhausts, turns oxygen into fuel, volcanic air, Fire Arrow upgrade coats arrows with Ignition Powder
+Snurt  
+Golem  
+Fire crabs  
+Fire lizard  
+Imp  
+Bats  
+Jet dragon BOSS has 2 openings like exhausts, turns oxygen into fuel, volcanic air, Fire Arrow upgrade coats arrows with Ignition Powder/Dragon Ash  
 
 ### FIRE LAB
-Knight
-Cinder Bird Knight BOSS(M)
-Fire Knight BOSS(H) stage 2 fire cape
+Knight  
+Cinder Bird Knight BOSS(M)  
+Fire Knight BOSS(H) stage 2 fire cape  
 
 ### CASTLE
-Knight
-Amalgam(H)
-Sentinels/Golems
-The Girl BOSS(M) has all the powers of previous bosses
-Paladin(H)
-Archangel BOSS(H)
+Knight  
+Amalgam(H)  
+Sentinels/Golems  
+The Girl BOSS(M) has all the powers of previous bosses  
+Paladin(H)  
+Archangel BOSS(H)  
 
 ### CASTLE LAB
-Monsters
-Amalgam
-Hat Sprite (Knight)
+Monsters  
+Amalgam  
+Hat Sprite (Knight)  
 
 TRUE ENDING
 Castle in the sky??? Triggers: Fight knight early game, visit castle and eavesdrop on Hayoshi, talk with knight in part 2, keep friends alive 
@@ -161,82 +161,82 @@ Side with humans, monsters overrun labs vice versa
 
 *Focus on Yuuma and Hayoshi. Might not be able to add all these different races.
 
-MALIA
-Kaynis
-- Dog
-- Wolf
-- Fox
-Feylin
-- Cat
-- Lion
-- Tiger
-- Panther
+MALIA  
+Kaynis  
+- Dog  
+- Wolf  
+- Fox  
+Feylin  
+- Cat  
+- Lion  
+- Tiger  
+- Panther  
 
-AEVI
-Harpy
-- Songbird
-- Pigeon/messenger
-Raptor
-- Osprey/ostrich
-- Eagle/hawk
-- Owl
-Hayoshi
-- 2-winged
-- Archangel 4-8 wings
+AEVI  
+Harpy  
+- Songbird  
+- Pigeon/messenger  
+Raptor  
+- Osprey/ostrich  
+- Eagle/hawk  
+- Owl  
+Hayoshi  
+- 2-winged  
+- Archangel 4-8 wings  
 
-SCALI
-Zard
-- Lizard
-- Gecko
-- Chameleon
-Drako
-- Normal/Fire
-- Jet
-- Ice
-Yuuma
-- Winged
-- Horned
-- Both
+SCALI  
+Zard  
+- Lizard  
+- Gecko  
+- Chameleon  
+Drako  
+- Normal/Fire  
+- Jet  
+- Ice  
+Yuuma  
+- Winged  
+- Horned  
+- Both  
 
 ## NPCs
 
 ### HUMAN
 
-Felix Green (Close Friend) Sword&Shield
-Short light/spring green hair
-Innocent, sincere look
-Tries his best
+Felix Green (Close Friend) Sword&Shield  
+Short light/spring green hair  
+Innocent, sincere look  
+Tries his best  
 
-Kourin Winters (Ice Girl) Spear user
-light blue/white hair in ponytail
-Tanned
-Talented
+Kourin Winters (Ice Girl) Spear user  
+light blue/white hair in ponytail  
+Tanned  
+Talented  
 
-Cleave Burner (Explosive Guy) Great Axe wielder
-Spiky dark red hair
-Short-tempered
-Laid back
+Cleave Burner (Explosive Guy) Great Axe wielder  
+Spiky dark red hair  
+Short-tempered  
+Laid back  
 
-Captain Grom
+Captain Grom  
 
-King Wallenis VI
-Has Glasses
+King Wallenis VI  
+Has Glasses  
 
 ### MONSTER
 
-Chancellor Farun (Hayoshi sub-leader)
-Long blonde hair
-6-Wings
+Chancellor Farun (Hayoshi sub-leader)  
+Long blonde hair  
+6-Wings  
 
-Advisor Wilhelm (personal aid to Yuki)
-Hardened fighter
-Shoulder length hair in ponytail
-Old 
+Advisor Wilhelm (personal aid to Yuki)  
+Hardened fighter  
+Shoulder length hair in ponytail  
+Old  
 
-Yuki (The Girl)
-Long white hair
-Innocent
-Two small horns
+Yuki (The Girl)  
+Long white hair  
+Innocent  
+Two small horns  
 
 ## Misc
 

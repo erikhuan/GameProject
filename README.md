@@ -1,29 +1,19 @@
 # Is it Lonely at the Top of the World?
 
-Action Platformer
-
-
-New game start, town in flames, night time, tutorial stage, has powerful sword and bow, possibly one shot enemies, sees the girl, wakes up from dream.
-
-## Power ups
-
-Arrows: metal>crystal>element
-Faster bow shots
-Sword skills
-More damage to certain enemies
-
-## Weapon Equips
-
-Sword + Bow	Roll, Shoot
-Sword + Shield  Block
-Spear		Sidestep, Dash
-Great Axe	Attack projectiles, crush rocks
+## Action Platformer
 
 Boy plays as a platformer; finding upgrades and killing monsters along the way
 
-Press jump and roll together to do a somersault. Can toadstool off enemies.
+Press jump and roll together to do a somersault(?)
+Can toadstool off enemies(?)
 
-Girl has magic powers; used to solve puzzles. Friend of monsters. Create magic platforms to change up environment. Make her playable in the second half??
+Girl has magic powers; used to solve puzzles
+Friend of monsters
+Create magic platforms to change up environment
+Make her playable in the second half(?) Or at all(?)
+
+
+Example of decision making
 
 First strong enemy/boss encounter early on
 Knight on a bridge
@@ -32,9 +22,41 @@ If you beat him w/o cutting the bridge you can skip a lot of beginning things.
 Will give Sword Skill upon defeat or maybe his sword
 Gives the girl... Knights Protection, guards against an instance of damage once. Recharged over time.
 
+New game start, town in flames, night time, tutorial stage, has powerful sword and bow, possibly one shot enemies, sees the girl, wakes up from dream.
+
+## Character Attributes
+
+### Power ups
+
+Arrows: metal>crystal>element
+Faster bow shots
+Sword skills(?)
+
+### Equipment
+
+#### Passive/Always on
+
+Bow - You shoot with it.
+Claw Gauntlets - Allows climbing
+
+#### Rotating Equips
+
+Dagger - Lets you Roll
+Sword + Shield - Block any attack
+Spear - Sidestep, Dash, Air Dash
+Great Axe - Nullify projectiles, crush rocks
+
+Ice Ofuda - Shoot Ice Arrows
+Dragon Ash - Shoot Fire Arrows
+Crystal Arrows - Shoot Piercing Arrows
+
+Coin Magnet - Nearby coins come to you
+Coin Charm - Enemies drop extra coins
+
+
 ## Map Zones
 
-FOREST
+### FOREST
 Imp
 Snurt 
 Giant Wasp
@@ -44,13 +66,13 @@ Fairy
 Twin Flying Squirrel Panthers BOSS drops Air Walks, double jump
 2nd comes in after the first takes enough damage and flinches
 
-RUINS
+### RUINS
 Sentry turret shoots lasers
 Sentinels/Golems
 Imp
 Ancient Golem MINI BOSS gets reactivated by either humans or monsters
 
-LAKE
+### LAKE
 Sentinels/Golems
 Mechanical Spiders
 Knight
@@ -58,7 +80,7 @@ Paladin BOSS(H)
 Frog(?) Knight BOSS(M) salamander? Marine iguana? Poison
 Leviathan BOSS optional
 
-SNOW - get Spear
+### SNOW - get Spear
 Snurt
 Hat Sprite
 Snow Imp
@@ -67,13 +89,13 @@ Spirits
 Zombies(temp)
 Lich BOSS summons zombies etc, actual body is weak, protected by ice, drops Ice Talisman for bow for Ice Arrows
 
-ICE LAB
+### ICE LAB
 Knight
 Sentinels/Golems
 Ice Knight BOSS(H) stage 2 ice armor
 Frost Wolf Knight BOSS(M)
 
-DESERT
+### DESERT
 (Has a Lost Woods feel to it, Oasis at the center of a circling map)
 Snurt
 Cacti
@@ -81,13 +103,13 @@ Imp
 Sand worm
 Giant Sand Worm BOSS Find Great Axe, Fight on the sand worm, killing it leaves it's carcass. New area
 
-MINES
+### MINES
 Snurt
 Spider
 Bat
 Crystal Golem BOSS optional, Crystal Arrow upgrade
 
-VOLCANO
+### VOLCANO
 Snurt
 Golem
 Fire crabs
@@ -96,12 +118,12 @@ Imp
 Bats
 Jet dragon BOSS has 2 openings like exhausts, turns oxygen into fuel, volcanic air, Fire Arrow upgrade coats arrows with Ignition Powder
 
-FIRE LAB
+### FIRE LAB
 Knight
 Cinder Bird Knight BOSS(M)
 Fire Knight BOSS(H) stage 2 fire cape
 
-CASTLE
+### CASTLE
 Knight
 Amalgam(H)
 Sentinels/Golems
@@ -109,7 +131,7 @@ The Girl BOSS(M) has all the powers of previous bosses
 Paladin(H)
 Archangel BOSS(H)
 
-CASTLE LAB
+### CASTLE LAB
 Monsters
 Amalgam
 Hat Sprite (Knight)
@@ -121,7 +143,7 @@ Side with humans, monsters overrun labs vice versa
 
 ## Races
 
-Focus on Yuuma and Hayoshi. Might not be able to add all these different races.
+*Focus on Yuuma and Hayoshi. Might not be able to add all these different races.
 
 MALIA
 Kaynis
@@ -162,7 +184,8 @@ Yuuma
 
 ## NPCs
 
-HUMAN
+### HUMAN
+
 Felix Green (Close Friend) Sword&Shield
 Short light/spring green hair
 Innocent, sincere look
@@ -183,9 +206,11 @@ Captain Grom
 King Wallenis VI
 Has Glasses
 
-MONSTER
+### MONSTER
+
 Chancellor Farun (Hayoshi sub-leader)
 Long blonde hair
+6-Wings
 
 Advisor Wilhelm (personal aid to Yuki)
 Hardened fighter
@@ -202,6 +227,8 @@ Two small horns
 Goddess fountains, if monster side spawn mini boss. If killed then free true goddess(?) and works like normal
 
 Air Walks - Double jump, wall jump, regain 2nd jump as long as feet land on a solid surface
+
+Stamina system...?
 
 Fall damage?
 

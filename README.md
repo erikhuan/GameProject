@@ -38,13 +38,26 @@ Sword skills(?)
 
 Bow - You shoot with it.
 Claw Gauntlets - Allows climbing
+Air Walks - Double Jump
+Sky Cloak - Air Dash
 
 #### Rotating Equips
 
-Dagger - Lets you Roll
-Sword + Shield - Block any attack
-Spear - Sidestep, Dash, Air Dash
-Great Axe - Nullify projectiles, crush rocks
+Dagger - Lets you Roll, Short Range, Fast
+Dagger+ Backstabbing Enemies deal extra damage
+Dagger++ May inflict Bleed
+
+Sword & Shield - Block any attack, Mid Range
+Shield+ Consumes less stamina
+Shield++ Reflect Beam Attacks
+
+Spear - Sidestep, Dash, Low Damage, Fast, Long Range
+Spear+ Dashing through enemies damages them
+Spear++ Air Dash, stacks with Sky Cloak for 2 dashes
+
+Great Axe - Crush rocks, High Damage, Slow, Long Range
+Great Axe+ Nullify projectiles
+Great Axe++ Reflect projectiles
 
 Ice Ofuda - Shoot Ice Arrows
 Dragon Ash - Shoot Fire Arrows
@@ -52,6 +65,9 @@ Crystal Arrows - Shoot Piercing Arrows
 
 Coin Magnet - Nearby coins come to you
 Coin Charm - Enemies drop extra coins
+Secret Charm - Detect Secrets/Hidden Items
+Boomerang - Damage enemies, Grab items, Activate Switches
+Breeze Leaf - Blow a gust of wind
 
 
 ## Map Zones
@@ -223,6 +239,8 @@ Innocent
 Two small horns
 
 ## Misc
+
+Instead of heart container drops, bosses give stat points that the player can assign to things like: Health, Stamina, Agility, Strength, Power
 
 Goddess fountains, if monster side spawn mini boss. If killed then free true goddess(?) and works like normal
 

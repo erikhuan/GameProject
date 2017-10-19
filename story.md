@@ -153,3 +153,86 @@ Captain: Are you the extra help we requested? (Yes/No)
 You may prepare before heading to the West Gate where you meet Cleave Burner.
 
 Cleave: Oi! You the recruit they sent from the East Gate? You don't look like you got a lot of fight in ya. Listen I'm only gonna say this once. If you slow me down I'm leavin' ya behind. Got it?! Let's go.
+
+## -Guard the Outpost-
+
+You travel through the desert
+Fight some waves of monsters maybe
+Get eaten by the Giant Sand Worm
+
+## -Inside the Sandworm-
+
+You find a key item that helps you break out of the worm's stomach and start traversing it's back.
+
+## -Giant Sandworm Boss Fight-
+
+You run along the Giant Sandworm's body and reach its head to kill it.
+
+## -Town North Gate-
+
+You return back to town
+There was an earthquake up in the north
+Zombies are appearing in great numbers and a great portion of knights are sent to defend the North Gate
+You along with Kourin Hayari fight your way through the horde
+You reach an icy cavern that houses the Lich trapped in ice
+
+## -Lich Boss Fight-
+
+You fight the boss
+After the fight an avalanche occurs and you black out
+
+Based on your decisions you are rescued by Kourin and brought back to town
+OR
+You are rescued by the Girl Yuki and brought to the Monster Realm
+
+## End of the First Half
+
+## Human Route
+
+You wake up and are feeling fine. Due to your bravery you are offered an experimental potion that will help strengthen you for an important mission in the near future.
+
+## -Two Years Later (Human)-
+
+You have grown much stronger than an average person would have in the past two years. The mission you are given is to retrive a gate fragment from 4 locations from abandoned labs scattered across the Kingdom. From here you the Player can choose what path to take first.
+
+## -Raiding the Monster Realm-
+
+After collecting the fragments, the Humans successfully create a portal to the Monster Realm and begin their assault.
+
+The sky is dark with a heavy overcast. A crimson glow fills the town as houses are ablaze. The smell of burning wood and screams waft through the air. Monster People are in a panic running past You as they are being cut down by your fellow knights. You fight your way through.
+
+## -Advisor Wilhelm Boss Fight-
+
+Before entering the Castle, a Kaynis butler stands in your way.
+
+## -Yuki Boss Fight-
+
+Based on some decisions Yuki will either be Angry or Sad that you have come to this conclusion. She grows to a monstrous size and tries to stop you and save her people.
+
+Her Boss Fight incorporates elements from all the previous bosses that you have fought.
+
+## Monster Route
+
+You wake up and find that your right arm and left leg are missing. Yuki askes the Monster World mages to help you by grafting Yuuma parts to replace your missing limbs. The mages say there is a small chance of success, but due to the Main Character actually being half-Yuuma the operation is a success and he must spend time to rehabilitate.
+
+## -Two Years Later (Monster)-
+
+Life in the Monster Realm has been quite pleasant. Yuki has offered to take care of you until you are healed up and even suggests you stay in the Monster Realm as you may as well be listed dead in the Human Realm. Before you can answer urgent news comes in saying the Humans are mobilizing their troops to invade the Monster Realm. Your Character offers his assistance as he feels he must return the favor of being rescued.
+
+You can choose the order of labs to go to from here on.
+
+The labs will be traveled in backwards from what would be the Boss room on the Human side and fighting the Human equivalent Boss in the Part One Boss room.
+
+## -Confronting the Kingdom-
+
+After fending off the Humans from taking the portal fragments, You make your way to the castle to stop the menace at its source.
+
+The sky is dark with a heavy overcast. A crimson glow fills the town as houses are ablaze. The smell of burning wood and screams waft through the air. People are in a panic running past You as they are being chased by monsterous knights. You fight your way through.
+
+## -Felix Boss Fight-
+
+As you make your way to the Castle you are stopped once again by your friend Felix. This time he means to fight to the end.
+
+## -Chancellor Farun Boss Fight-
+
+After defeating Felix you make your way to the Inner Sanctum where Chancellor Farun reveals who he really is as he kills the King before he gets to speak with you.
